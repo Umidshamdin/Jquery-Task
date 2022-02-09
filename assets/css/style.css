@@ -1,0 +1,13 @@
+.box{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    display: none;
+}
+.btn{
+    width: 200px;
+}
+.btn-danger{
+    margin-left: 20px;
+}
